@@ -21,6 +21,6 @@ public class CharExample {
         System.out.printf("ch4: %d\n", (int)ch4);
 
 
-        char ch5 = ' ';
+        char ch5 = ' ';//
     }
 }

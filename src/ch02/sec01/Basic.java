@@ -43,6 +43,6 @@ public class Basic {
         int abc, aBc, abC; // 대소문자 가림
 
             int score; // 변수 선언
-            score = 90; // 값 대입
+            score = 90; // 값 대입//
     }
 }

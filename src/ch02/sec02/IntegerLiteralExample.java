@@ -16,7 +16,7 @@ public class IntegerLiteralExample {
         System.out.println("var3 -8진수: " + Integer.toOctalString(var3));
         System.out.println("var3 -16진수: " + Integer.toHexString(var3));
 
-        //FFFFFF
+        //FFFFF
         //...... (15*16*16)  +   (15*16) + 15
     }
 }

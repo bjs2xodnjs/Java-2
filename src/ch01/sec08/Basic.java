@@ -10,7 +10,7 @@ public class Basic {
         int sum = x + y; // 변수 sum을 선언하였고 x와 y를 더한 값을 초기화
         // int sum = 1 + 2;
         // int sum = 3;
-        System.out.println(sum);
-        System.out.println(3);
+        System.out.println(sum);//
+        System.out.println(3);//
     }
 }

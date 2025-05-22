@@ -17,6 +17,6 @@ public class IntegerLiteralExample {
         System.out.println("var3 -16진수: " + Integer.toHexString(var3));
 
         //FFFFFF
-        //...... (15*16*16)  +   (15*16) + 15
+        //...... (15*16*16)  +   (15*16) + 15//
     }
 }

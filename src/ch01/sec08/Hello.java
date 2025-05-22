@@ -20,7 +20,7 @@ public class Hello {
         System.out.println("Hello,/*이거 주석 아님*/ Java"); //println 메소드 호출
 
     }
-    class Hi {
+    class Hi {//
 
     }
 }

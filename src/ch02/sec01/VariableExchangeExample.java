@@ -12,6 +12,6 @@ public class VariableExchangeExample {
 
 
         // x: 5, y: 3 이렇게 출력되게 해주세요.
-        System.out.printf("x: %d, y: %d\n", x, y);
+        System.out.printf("x: %d, y: %d\n", x, y);//
     }
 }

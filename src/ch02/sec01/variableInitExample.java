@@ -6,6 +6,6 @@ public class variableInitExample {
 
 //        int result value + 10; // 사용하려고 하면 컴파일 에러가 난다.
 
-//        System.out.println(result);
+//        System.out.println(result);//
     }
 }

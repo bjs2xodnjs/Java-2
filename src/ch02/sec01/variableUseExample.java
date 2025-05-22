@@ -13,6 +13,6 @@ public class variableUseExample {
 
         System.out.printf("%d시간 %d분\n", hour,min );
         System.out.printf("총 %d분", 60 *  hour + min);
-
+//
     }
 }
