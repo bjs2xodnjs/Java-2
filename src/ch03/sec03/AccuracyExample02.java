@@ -11,3 +11,4 @@ public class AccuracyExample02 {
         System.out.println("10조각에서 남은 양: 0.%d\n," + result);
     }
 }
+//

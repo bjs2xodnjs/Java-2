@@ -16,7 +16,7 @@ public class Misson06 {
         int sum = 0;
         int i = 0;
 
-        while (true) {
+        while (true) {//
 
             sum += ++i;
             if(sum > 100) {

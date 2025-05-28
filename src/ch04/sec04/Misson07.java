@@ -18,5 +18,5 @@ public class Misson07 {
         double average = (double) sum / scores.length;
         System.out.println("평균 점수: " + average);
 
-    }
+    }//
 }

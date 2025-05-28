@@ -20,8 +20,8 @@ public class ArrayShuffleExample {
         */
         for(int i=0; i < arr.length; i++) {
             int rand = (int)(Math.random() * 10);
-            int temp = arr[i];
-            arr[i] = arr[rand];
+            int temp = arr[i];//
+            arr[i] = arr[rand];//
             arr[rand] = temp;
 
         }
