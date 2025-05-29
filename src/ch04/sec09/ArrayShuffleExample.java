@@ -11,7 +11,7 @@ public class ArrayShuffleExample {
             arr[i] = i + 1;
         }
 
-        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr)); // 검증용
 
         /*
         0~9 랜덤값 구한다. 예를 들어 7이 나왔다. 0번반과 7번방 스와핑한다.
