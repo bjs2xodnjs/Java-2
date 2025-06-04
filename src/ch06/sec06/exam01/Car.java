@@ -5,8 +5,8 @@ public class Car {
     boolean start;
     int speed;
 
-    public Car() {
-        this.model = "제네시스 G80";
-        this.speed = 20;
+    public Car() {// 파라미터 없는 것은 기본값
+//        this.model = "제네시스 G80";
+//        this.speed = 20;
     }
 }
