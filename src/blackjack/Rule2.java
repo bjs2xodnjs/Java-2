@@ -2,7 +2,7 @@ package blackjack;
 
 import java.util.List;
 
-public class Rule {
+public class Rule2 {
 
     private final static int MAX_SCORE = 21;
 

@@ -33,6 +33,9 @@ public class BlackJack {
             dealer.receiveCard((cd.getCard()));
         }
         dealer.showCards();
+
+        Rule.getWinner(null, null);
+
     }
 
 
