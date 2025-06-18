@@ -1,0 +1,13 @@
+package ch07.sec07.poly2;
+// Computer는 Product를 상속받는다.
+// Computer의 가격은 무조건 200만원입니다.
+// Computer 객체의 주소값을 println에 찍으면 "Tv"가 출력되어야 한다.
+public class Computer extends Product {
+    public Computer() {
+        super(200);
+    }
+    @Override
+    public String toString() {
+        return "Computer";
+    }
+}
